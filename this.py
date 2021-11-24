@@ -1,1 +1,1 @@
-input("What should I import? ")
+import this
