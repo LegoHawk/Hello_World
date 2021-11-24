@@ -1,7 +1,6 @@
 import webbrowser
 import requests
 
-print("Hello Sir/Madam! (or however you identify)")
 print("Let's find an old website.")
 site = input("Please type a website URL: ")
 era = input("Type a year, month, and day, like 20150613: ")
