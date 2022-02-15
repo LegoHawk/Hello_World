@@ -1,5 +1,5 @@
-furry = 0
-large = 0
+furry = 1
+large = 1
 
 if furry:
     if large:
