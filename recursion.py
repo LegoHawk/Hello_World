@@ -15,7 +15,7 @@
 # best way to find out is by testing and modifying it.
 
 def tri_recursion(k):
-    if(k>0):
+    if k>0:
         result = k + tri_recursion(k-1)
         print(result)
     else:
@@ -23,4 +23,4 @@ def tri_recursion(k):
     return result
 
 print("\n\nRecursion Example Results")
-tri_recursion(-5)
+tri_recursion(6)
